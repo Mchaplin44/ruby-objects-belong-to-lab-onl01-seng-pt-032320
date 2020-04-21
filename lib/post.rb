@@ -1,1 +1,3 @@
-class Post 
+class Author 
+  :Post 
+end 
